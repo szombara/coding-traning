@@ -6,4 +6,4 @@ File: **iN_SS.ipynb** - my test of iNaturalist API, [ipyleaflet](https://github.
 
 Necessity to install libraries in **Anaconda** in advance:
 * ipyleaflet - https://anaconda.org/conda-forge/ipyleaflet
-* geojson - https://anaconda.org/conda-forge/geojson
+* [geojson](https://geojson.org) - https://anaconda.org/conda-forge/geojson
