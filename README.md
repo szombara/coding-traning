@@ -2,4 +2,4 @@
 
 
 # iNaturalist API tests
-File: iN_SS - my test of iNaturalist API
+File: iN_SS.ipynb - my test of iNaturalist API
