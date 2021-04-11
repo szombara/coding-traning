@@ -1,7 +1,7 @@
 # coding-traning
 
 
-# iNaturalist API and map vidgets tests
+## iNaturalist API and map vidgets tests
 File: **iN_SS.ipynb** - my test of iNaturalist API, ipyleaflet
 
 Necessity to install libraries in **Anaconda** in advance:
