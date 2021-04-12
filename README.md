@@ -9,3 +9,8 @@ Necessity to install packages in **Anaconda** in advance:
 * **instruction:** https://anaconda.org/conda-forge/geojson - [geojson](https://geojson.org).
 
 [ipyleaflet documentation](https://ipyleaflet.readthedocs.io/en/latest/)
+
+
+## QGIS
+
+[package](https://anaconda.org/conda-forge/qgis)
